@@ -1,11 +1,9 @@
 **This application is mainly used in AliExpress.com F2E Team, but it should work for anyone else.**
 
-YComboGUI
+JCombo
 =========
 
 *The Java GUI Front-End for YCombo.*
-
-![JCombo НиЭМ](screenshot.png)
 
 Requirement
 -----------
