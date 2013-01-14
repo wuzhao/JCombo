@@ -13,7 +13,7 @@ This application runs under Microsoft Windows, Linux and Macintosh, depends on [
 Installation
 ------------
 
-Download the latest [zip package](http://wuzhao.github.com/JCombo/jcombo-latest.zip), extract all contents to a proper folder (ex. C:\Program Files\JCombo\), then run the execution file and enjoy.
+Download the latest [zip package](https://github.com/wuzhao/JCombo/blob/master/release/jcombo-latest.zip?raw=true), extract all contents to a proper folder (ex. C:\Program Files\JCombo\), then run the execution file and enjoy.
 
 	java -jar jcombo.jar
 
